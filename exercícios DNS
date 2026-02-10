@@ -1,4 +1,4 @@
-## 🧠 Questões Teóricas sobre DNS
+🧠 Questões Teóricas sobre DNS
 
 **1.** O que significa a sigla DNS e qual é sua principal função? Domain Name System, atua como uma "agenda telefônica da internet" traduzindo os nomes de domínio amigáveis 
 
@@ -13,7 +13,7 @@ CNAME (Canonical Name): Mapeia um nome de domínio para outro nome de domínio p
 
 ---
 
-## 🪟 Questões sobre DNS no Windows
+🪟 Questões sobre DNS no Windows
 
 **6.** Qual comando do Windows é utilizado para testar a resolução de nomes DNS?
 
@@ -27,7 +27,7 @@ CNAME (Canonical Name): Mapeia um nome de domínio para outro nome de domínio p
 
 ---
 
-## 🐧 Questões sobre DNS no Linux
+🐧 Questões sobre DNS no Linux
 
 **11.** Qual arquivo do Linux contém os servidores DNS configurados no sistema?
 
