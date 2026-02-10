@@ -1,14 +1,15 @@
 ## 🧠 Questões Teóricas sobre DNS
 
-**1.** O que significa a sigla DNS e qual é sua principal função?
+**1.** O que significa a sigla DNS e qual é sua principal função? Domain Name System, atua como uma "agenda telefônica da internet" traduzindo os nomes de domínio amigáveis 
 
-**2.** Por que o DNS foi criado? Qual problema ele resolveu na Internet?
+**2.** Por que o DNS foi criado? Qual problema ele resolveu na Internet? Para resolver o problema de escala na Internet, resolveu o problema da necessidade de memorizar endereços IP  para acessar sites na internet
 
-**3.** O que é um nome de domínio? Dê um exemplo.
+**3.** O que é um nome de domínio? Dê um exemplo. é o endereço único e exclusivo utilizado para identificar um site na internet, um exemplo é o google.com
 
-**4.** Qual é a função de um servidor DNS?
+**4.** Qual é a função de um servidor DNS? é traduzir nomes de domínio compreensíveis por humanos 
 
-**5.** Cite dois tipos de registros DNS e explique brevemente um deles.
+**5.** Cite dois tipos de registros DNS e explique brevemente um deles. Registro A (Address): Ele mapeia um nome de domínio ou subdomínio diretamente para um endereço IPv4 físico
+CNAME (Canonical Name): Mapeia um nome de domínio para outro nome de domínio principal, em vez de um endereço IP, útil para subdomínios
 
 ---
 
